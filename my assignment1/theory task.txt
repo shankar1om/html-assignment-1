@@ -1,0 +1,25 @@
+Task 2: Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML documents?
+
+Sol:
+>The comment provides functionality that a increase the readability of code and makes the code easy to understand.
+>the commented part in HTML dose not rendered on browser.
+>it just remove the rendering of commented part, it dose not left the page.
+>it is shown by  --> tag.
+> the emmet shortcut for comment  for window is control+forward slash.
+
+Task 4: Write a short note on Tag and element with an examples?
+
+Sol:
+>HTML tags are used to hold the HTML element.
+>HTML element holds the content. 
+> Tags are the starting and ending parts of an HTML element. They begin with < symbol and end with > symbol. Whatever written inside < and > are called tags.
+> for example <br> is a break line tag.
+>element encloses the content in between the tags.
+>for example <b>....element…</b>.here element is enclosed between start and end.
+
+
+Task 5: What is the is DOCTYPE Declaration in HTML?
+
+Sol:
+>With the help of DOCTYPE deceleration browser understand that what user is trying to render.is it HTML  or something else.
+> It is the first line of code require in every html doc.
